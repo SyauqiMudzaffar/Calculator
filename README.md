@@ -64,6 +64,7 @@ Jalankan aplikasi dengan perintah berikut:
 1. Untuk Enkripsi dan Dekripsi DES: bash Salin kode python desgui.py
 2. Untuk Kalkulator Caesar Cipher: bash Salin kode python kalkulator_caesar.py
 3. Untuk Steganografi:bash Salin kode python steganogui.py
+
 Dengan mengikuti langkah-langkah di atas, Anda dapat menjalankan dan menggunakan aplikasi-aplikasi yang telah dibuat.
 
 ```bash
